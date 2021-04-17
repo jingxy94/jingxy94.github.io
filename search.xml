@@ -4,33 +4,125 @@
   
     
     <entry>
-      <title>狗1</title>
-      <link href="2021/01/01/%E7%8B%97/"/>
-      <url>2021/01/01/%E7%8B%97/</url>
+      <title>熟络</title>
+      <link href="2018/02/11/%E7%86%9F%E7%BB%9C/"/>
+      <url>2018/02/11/%E7%86%9F%E7%BB%9C/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>摘要</p><span id="more"></span><h1 id="测试文章编写"><a href="#测试文章编写" class="headerlink" title="测试文章编写"></a>测试文章编写</h1><h2 id="start"><a href="#start" class="headerlink" title="start"></a>start</h2><h3 id="图像加载"><a href="#图像加载" class="headerlink" title="图像加载"></a>图像加载</h3><p>123<br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"></p><h3 id="视频加载"><a href="#视频加载" class="headerlink" title="视频加载"></a>视频加载</h3><div class="video"><video controls preload><source src="https://f.video.weibocdn.com/001NkDislx07A9NCDSUw010412011KjF0E010.mp4?label=mp4_ld&template=640x360.25.0&trans_finger=40a32e8439c5409a63ccf853562a60ef&ori=0&ps=1BVp4ysnknHVZu&Expires=1618582851&ssig=vedrAuK8Vn&KID=unistore,video" type="video/mp4">Your browser does not support the video tag.</video></div><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://f.video.weibocdn.com/001NkDislx07A9NCDSUw010412011KjF0E010.mp4?label=mp4_ld&template=640x360.25.0&trans_finger=40a32e8439c5409a63ccf853562a60ef&ori=0&ps=1BVp4ysnknHVZu&Expires=1618582851&ssig=vedrAuK8Vn&KID=unistore,video","pic":"1579189836278.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><h3 id="多图像加载"><a href="#多图像加载" class="headerlink" title="多图像加载"></a>多图像加载</h3><div class="gallery stretch" col="4">              <p><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"><br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"><br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"><br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"><br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"><br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"><br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"><br><img src="/2021/01/01/%E7%8B%97/1579189836278.jpg" class="lazyload" data-srcset="/2021/01/01/%E7%8B%97/1579189836278.jpg" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="ceshi"></p>            </div><h3 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h3><p>密码样式的文本：<psw>这里没有验证码</psw></p><p>带 <del>删除线</del> 的文本</p><p>在一段话中方便插入各种颜色的标签，包括：<span class="p red">红色</span>、<span class="p yellow">黄色</span>、<span class="p green">绿色</span>、<span class="p cyan">青色</span>、<span class="p blue">蓝色</span>、<span class="p gray">灰色</span>。</p><pre><code class="bash">$  baidu</code></pre><p>More info: <a href="https://www.baidu.com/">baidu</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    她室友结婚当天，我们在参加的时候，私下里，微信上不停地聊天，商量着怎么抢红包，笑死。更逗的是，婚礼上相互偷拍，黑照一堆。</p><p>​    后来，她的室友先收到了我的黑照，我还被威胁了…….</p><p>​    那个时候，聊天互损，过了没几天，她的室友说：<img src="/2018/02/11/%E7%86%9F%E7%BB%9C/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210417163914.png" class="lazyload" data-srcset="/2018/02/11/%E7%86%9F%E7%BB%9C/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210417163914.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="emmm"></p>]]></content>
       
       
       <categories>
           
-          <category> 狗子 </category>
-          
-          <category> 喵 </category>
-          
-          <category> 饲养员 </category>
-          
-          <category> emmm </category>
+          <category> 调皮 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签1 </tag>
+            <tag> 日常 </tag>
             
-            <tag> 标签2 </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相遇，相知，相识</title>
+      <link href="2018/02/09/%E7%9B%B8%E9%81%87%EF%BC%8C%E7%9B%B8%E7%9F%A5%EF%BC%8C%E7%9B%B8%E8%AF%86/"/>
+      <url>2018/02/09/%E7%9B%B8%E9%81%87%EF%BC%8C%E7%9B%B8%E7%9F%A5%EF%BC%8C%E7%9B%B8%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    平行线的交互，是要有一条辅助线的功劳。</p><p>​    在2018年2月11号，她的室友结婚，我参加了。在结婚前，2.9那天我和她的室友还有别的朋友早上一起去镇上买衣服，接她。</p><p>​    我清楚的记得当天的情形。那天，我们几个人坐在车里，停在路边等她，我坐在后排右侧，她从左侧上车，中间是我的队友。上车前，她的室友说我们应该见过，当时我还不确定。但是，她上车后，我俩相互瞅了几眼，觉得眼熟，不确定的问了几句，立马熟络起来（她还立马想起了我在朋友们中的绰号）。中间的队友立马成了路人甲……那天，我们一直聊啊聊，仿佛有说不完的话，好像早已熟知，现在想来，仍然觉得出乎意料，因为我从来没有和谁一下子就那么沟通起来。而且就像是多年不见的好朋友，没有一点生分。</p><p>​    在12:36，添加上微信好友后，所有的一切，从这里开始了~~~~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 路程 </category>
+          
+          <category> 开始 </category>
+          
+      </categories>
+      
+      
+        <tags>
             
-            <tag> 标签3 </tag>
+            <tag> 转折点 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>平行线</title>
+      <link href="2017/01/01/%E5%B9%B3%E8%A1%8C%E7%BA%BF/"/>
+      <url>2017/01/01/%E5%B9%B3%E8%A1%8C%E7%BA%BF/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    在大四的时候，我选择去帝都实习，而她同样的也在帝都，而且，是举世闻名的北京协和<psw>下的小实习生</psw>。</p><p>​    不过，后来在聊天的时候，回忆过去。我们才发现，原来，都有在同一个地方苦逼的工作学习，但是，不知道对方的信息（连好友都没有）没有相遇的机会，就像两条平行线。聊天的时候，都感叹，相见恨晚莫过于此。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其它 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 其它 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>再次交汇</title>
+      <link href="2015/04/22/%E5%86%8D%E6%AC%A1%E4%BA%A4%E6%B1%87/"/>
+      <url>2015/04/22/%E5%86%8D%E6%AC%A1%E4%BA%A4%E6%B1%87/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    在大学里，偶然的一次机会，听说了一个大学生城市生存挑战赛，我和朋友一起，以其他的名义接下了，我们两个人做起了这个赛事在我们学校的实际负责人。QQ佐证正式开始日期为2015.04.22</p><p>​    提到这段故事的原因，是因为后来我们在一起聊天，聊到了这个，而且，我手上当时活动的资料还在，真的找到了这段历史。那个时候，我是比赛负责人，她和她的几位朋友组成了一个团队来参赛，后来，成绩还不错，棒。后来，我带着几个不错的队伍前去省会参加决赛，还拿了个分赛区的优秀组织方。她，应该没去。。。不过，这，也是我们在学校里的第二次交汇。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 回忆 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 其它 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一切的起点</title>
+      <link href="2014/01/01/%E4%B8%80%E5%88%87%E7%9A%84%E8%B5%B7%E7%82%B9/"/>
+      <url>2014/01/01/%E4%B8%80%E5%88%87%E7%9A%84%E8%B5%B7%E7%82%B9/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    我和她，学习与相遇在一所大学中，那是故事的起点，距离我们正式的开始还有很长的时间。</p><p>​    但是就像大多数音乐的开始总会有前奏一样，这也是故事的起始。其实找这段时间的开始并不容易，因为那个时候我们还没有认识，没有直接的记录，只是通过其他的方式来找寻这段回忆。比如许久不用的QQ，和他人的聊天，照片等等。然而可惜的是，由于时间过于久远，中间我的电脑硬盘更换过，所以，那个时候的聊天记录没有保留下来，也没能找到照片视频。</p><p>​    初次的见面，应该是在她的宿舍，那个时候，我在校国旗队里，她的室友是我们的队友。其实，后面的故事也是因为她的室友而开始，想来也是很有趣。当时她的宿舍楼是男女分层混住，也就是男女都能进。我的好奇心蹭蹭的，过程不提，终于有一天和她的室友进到了她的宿舍。那，应该就是我记忆里的第一次见面，说来尴尬，因为现在只记得当天我进去了宿舍，但是在那说了什么，做了什么，还是想不起来……但是，那应该就是我们的第一次见面，2014年X月X日。</p><p>​    虽然不记得具体当时说了什么，但是当时她们宿舍的人应该对我已经有所了解，因为，似乎没人记得我的名字，都记得我的绰号…….</p><p>​    总之，印象里，那是一次愉快的访问。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 回忆 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 转折点 </tag>
             
         </tags>
       
